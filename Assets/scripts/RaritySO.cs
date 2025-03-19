@@ -4,5 +4,5 @@ using UnityEngine;
 public class RaritySO : ScriptableObject
 {
     public GameObject prefab;
-    public float Probability;
+    public int probability;
 }

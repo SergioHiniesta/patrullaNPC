@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f8e099fab113f4eb9fddc7f83df96e, type: 3}
   m_Name: RarityList
   m_EditorClassIdentifier: 
-  rarities: []
+  rarities:
+  - {fileID: 11400000, guid: d1af8f13db7e73f49816af688a88c0fd, type: 2}
+  - {fileID: 11400000, guid: 933d622f826f18f4589011c77041b786, type: 2}
+  - {fileID: 11400000, guid: 815a65abe6364964091a4f85904bd3cc, type: 2}
+  - {fileID: 11400000, guid: ed9b065888a4ed640a74198b643f57be, type: 2}
